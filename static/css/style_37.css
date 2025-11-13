@@ -1,0 +1,1576 @@
+﻿
+.copy {
+    text-align: center;
+    font-size: 13px;
+    color: #999;
+    margin-bottom: 25px;
+}
+
+
+
+.mb60 {
+    margin-top: 60px !important;
+}
+
+.copy {
+    text-align: center;
+    font-size: 13px;
+    color: #999;
+    margin-bottom: 25px;
+}
+
+
+
+.mb {
+    margin-top: 20px;
+}
+
+.s_bottom .down {
+    width: 294px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.intro .down a {
+    display: block;
+    width: 294px;
+    height: 74px;
+    line-height: 74px;
+    text-indent: 50px;
+    font-size: 28px;
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_red.png) center center no-repeat;
+    color: white;
+    text-align: center;
+}
+
+.intro .down a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_red_hover.png) center center no-repeat;
+}
+
+.s_bottom {
+    margin-top: 90px;
+}
+
+.mbcopy-90 {
+    margin-top: 90px;
+}
+
+
+.qudao a {
+    display: inline-block;
+    width: 296px;
+    height: 74px;
+    line-height: 74px;
+    text-indent: 42px;
+    font-size: 29px;
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_qd.png) center center no-repeat;
+    color: white;
+    text-align: center;
+}
+
+.qudao a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_qd_hover.png) center center no-repeat;
+}
+
+.sem_pics {
+    margin-top: 40px;
+}
+
+.sem_pics img {
+    width: 1200px;
+    height: 368px;
+}
+
+.sem_sougou .article {
+    margin-top: 50px;
+    font-size: 17px;
+    color: #333;
+}
+
+.sem_sougou .article p {
+    line-height: 30px;
+}
+
+.sem_qu_bottom {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.sem_liebao {
+    width: 100%;
+    height: 534px;
+    background: url(https://www.wangyi-youdao.com/skin/images/liebao_bk.png) center center no-repeat;
+}
+
+.sem_liebao .liebao_logo {
+    display: block;
+    padding-top: 10px;
+}
+
+.sem_liebao .down a {
+    display: inline-block;
+    width: 390px;
+    height: 74px;
+    line-height: 74px;
+    text-indent: 50px;
+    font-size: 28px;
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_liebao.png) center center no-repeat;
+    color: #ED6906;
+    text-align: center;
+}
+
+.sem_liebao .down a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_leibao_hover.png) center center no-repeat;
+}
+
+.sem_liebao_h {
+    position: relative;
+    height: 534px;
+}
+
+.sem_liebao_h .down {
+    position: absolute;
+    right: 80px;
+    bottom: 82px;
+}
+
+.sem_liebao_ar {
+    margin-top: 39px;
+    margin-bottom: 80px;
+    font-size: 17px;
+    color: #333;
+}
+
+.sem_liebao_ar p {
+    line-height: 30px;
+}
+
+.leibao_icon img {
+    width: 1040px;
+    height: 440px;
+    display: block;
+    margin: 0 auto;
+}
+
+.sem_leibao_bottom {
+    text-align: center;
+    margin-top: 69px;
+    margin-bottom: 51px;
+}
+
+.sem_leibao_bottom a {
+    display: inline-block;
+    width: 344px;
+    height: 74px;
+    line-height: 74px;
+    font-size: 28px;
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_lb.png) center center no-repeat;
+    color: #ED6906;
+    text-align: center;
+}
+
+.sem_leibao_bottom a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_lb_hover.png) center center no-repeat;
+}
+
+.sem_kugou {
+    width: 100%;
+    height: 480px;
+    background: url(https://www.wangyi-youdao.com/skin/images/bk_kugou.png) center center no-repeat;
+}
+
+.kugou_top .kugou_logo {
+    display: block;
+    padding-top: 10px;
+}
+
+.sem_kugou .title img {
+    width: 444px;
+    height: 143px;
+    display: block;
+    margin: 58px auto;
+}
+
+.kugou_a .down {
+    text-align: center;
+}
+
+.kugou_a .down a {
+    display: inline-block;
+    width: 326px;
+    height: 88px;
+    line-height: 79px;
+    font-size: 28px;
+    text-indent: 20px;
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_kugou.png) center center no-repeat;
+    color: #fff;
+    text-align: center;
+}
+
+.kugou_a .down a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/btn_kugou_hover.png) center center no-repeat;
+}
+
+.cugou_pic_main {
+    display: block;
+    margin: 50px auto;
+}
+
+.kugou_icon {
+    margin-bottom: 121px;
+}
+
+.kugou_icon img {
+    width: 936px;
+    height: 528px;
+    display: block;
+    margin: 0 auto;
+}
+
+.aqiyi_top {
+    width: 100%;
+    height: 798px;
+    background: url(https://www.wangyi-youdao.com/skin/images/aiqiy_bk.png) center center no-repeat;
+}
+
+.aqiyi_top_left {
+    float: left;
+    width: 619px;
+    height: 505px;
+}
+
+.aqiyi_top_left {
+    width: 619px;
+    height: 505px;
+}
+
+.mb158 {
+    padding-top: 158px;
+}
+
+.aqiyi_top_right {
+    float: left;
+    margin-top: 95px;
+    margin-left: 73px;
+}
+
+.adown a {
+    display: inline-block;
+    width: 308px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 30px;
+    text-indent: 20px;
+    background: url(https://www.wangyi-youdao.com/skin/images/aqiyi_btn.png) center center no-repeat;
+    color: #fff;
+    text-align: center;
+}
+
+.adown a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/aiqiyi_btn_hover.png) center center no-repeat;
+}
+
+.down_ju {
+    margin-top: 60px;
+    margin-left: 52px;
+}
+
+.aqiyi_top_right p {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.aqiyi_middle {
+    width: 100%;
+    height: 440px;
+    background: url(https://www.wangyi-youdao.com/skin/images/aqiyi_middle.png) center center no-repeat;
+}
+
+.aqiyi_middle img {
+    display: block;
+    width: 543px;
+    height: 71px;
+    padding-top: 144px;
+    margin-left: 614px;
+}
+
+.aqiyi_middle .adown {
+    margin-top: 60px;
+    margin-left: 614px;
+}
+
+.aqiyi_bottom {
+    width: 100%;
+    height: 440px;
+    background: url(https://www.wangyi-youdao.com/skin/images/aiqiyi_bottom.png) center center no-repeat;
+}
+
+.aqiyi_bottom img {
+    display: block;
+    width: 685px;
+    height: 73px;
+    padding-top: 147px;
+}
+
+.aqiyi_bottom .adown {
+    margin-top: 30px;
+}
+
+.tqq_top {
+    width: 100%;
+    height: 900px;
+    background: url(https://www.wangyi-youdao.com/skin/images/tqq_top.png) center center no-repeat;
+}
+
+.tqq_top .qq_logo1 {
+    width: 94px;
+    height: 45px;
+    display: block;
+    padding-top: 34px;
+}
+
+.tqq_top_all {
+    margin-top: 195px;
+}
+
+.tqq_top_left {
+    float: left;
+    width: 452px;
+}
+
+.tqq_top_right {
+    float: left;
+    margin-left: 68px;
+}
+
+.tqq_top_right .bann {
+    font-size: 14px;
+    color: #333;
+}
+
+.tqq_top_right .bann p {
+    line-height: 2;
+}
+
+.tqq_top_right .bann p span {
+    display: inline-block;
+    width: 190px;
+}
+
+.tqq_top_right .xitong {
+    position: relative;
+    height: 60px;
+}
+
+.tqq_top_right .xitong .img1 {
+    position: absolute;
+    width: 110px;
+    height: 16px;
+    left: 70px;
+    top: 6px;
+}
+
+.tqq_top_right .xitong .img2 {
+    position: absolute;
+    width: 110px;
+    height: 16px;
+    left: 230px;
+    top: 8px;
+}
+
+.tqq_top_right .xitong .img3 {
+    position: absolute;
+    width: 110px;
+    height: 16px;
+    left: 69px;
+    top: 30px;
+}
+
+.tqq_top_right .xitong .img4 {
+    position: absolute;
+    width: 110px;
+    height: 16px;
+    left: 231px;
+    top: 31px;
+}
+
+.down_qq a {
+    display: inline-block;
+    width: 282px;
+    height: 77px;
+    line-height: 77px;
+    font-size: 30px;
+    text-indent: 20px;
+    background: url(https://www.wangyi-youdao.com/skin/images/qq_btn.png) center center no-repeat;
+    color: #fff;
+    text-align: center;
+}
+
+.mt_down_qq {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.tqq_bottom {
+    width: 100%;
+    height: 974px;
+    background: url(https://www.wangyi-youdao.com/skin/images/tqq_bottom.png) center center no-repeat;
+}
+
+.tqq_bottom_1 {
+    margin-top: 230px;
+    margin-left: 9px;
+}
+
+.tqq_bottom_1 a {
+    display: inline-block;
+    width: 282px;
+    height: 77px;
+    line-height: 77px;
+    background: url(https://www.wangyi-youdao.com/skin/images/qq_btn.png) center center no-repeat;
+    margin-bottom: 10px;
+    margin-left: 56px;
+}
+
+.tqq_bottom_1 p span {
+    display: inline-block;
+    margin-top: 47px;
+    font-size: 24px;
+    color: #888;
+    padding-left: 100px;
+    width: 315px;
+}
+
+.tqq_bottom .tqq_bottom_2 {
+    margin-left: 104px;
+    margin-top: 63px;
+}
+
+.tqq_bottom .copy {
+    margin-top: 490px;
+}
+
+.muban_top {
+    width: 100%;
+    height: 620px;
+    background: url(https://www.wangyi-youdao.com/skin/images/desktop_bg.99560027.jpg);
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: cover;
+    color: #fff;
+    position: relative;
+}
+
+.muban_top_banner .header,
+.muban_top2 .header {
+    height: 60px;
+    line-height: 60px;
+}
+
+.muban_top_banner .header img {
+    width: 42px;
+    height: 42px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.muban_top_banner .title {
+    font-size: 38px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.muban_top_banner .header span {
+    height: 60px;
+    line-height: 60px;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 16px;
+    font-family: MicrosoftYaHei;
+    font-weight: bold;
+    color: #333;
+}
+
+
+.muban_middle {
+    height: 380px;
+}
+
+.muban_middle_left {
+    float: left;
+    width: 327px;
+    height: 246px;
+    margin-top: 94px;
+}
+
+.muban_middle_left img {
+    width: 250px;
+}
+
+.muban_middle_right {
+    float: left;
+    margin-left: 65px;
+    margin-top: 141px;
+    width: 789px;
+}
+
+.muban_middle_right p {
+    font-size: 18px;
+    color: #333;
+    text-indent: 30px;
+    line-height: 35px;
+    letter-spacing: 5px;
+}
+
+.muban_bottom {
+    width: 100%;
+    height: 362px;
+    background: #efefef;
+    padding-top: 60px;
+}
+
+.muban_bottom_btn a {
+    width: 300px;
+    height: 76px;
+    line-height: 76px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    margin-left: 82px;
+    margin-bottom: 14px;
+}
+
+.muban_bottom_btn .a1 {
+    background: #3f3ee2;
+}
+
+.muban_bottom_btn .a2 {
+    background: #149bf1;
+}
+
+.muban_bottom_btn .a3 {
+    background: #ff9018;
+}
+
+.muban_bottom_btn .a1:hover {
+    background: #3c5ef1;
+}
+
+.muban_bottom_btn .a2:hover {
+    background: #3db4ff;
+}
+
+.muban_bottom_btn .a3:hover {
+    background: #ffa23e;
+}
+
+.mbcopy-130 {
+    margin-top: 220px;
+}
+
+.muban_top2 {
+    width: 100%;
+    height: 635px;
+    background: url(https://www.wangyi-youdao.com/skin/images/muban_top2_bk.png) center center no-repeat;
+    color: #333;
+}
+
+.muban_top2_top {
+    margin-top: 142px;
+    margin-left: 668px;
+}
+
+.muban_btn2 a {
+    display: inline-block;
+    width: 300px;
+    height: 76px;
+    line-height: 76px;
+    font-size: 30px;
+    text-indent: 30px;
+    background: url(https://www.wangyi-youdao.com/skin/images/muban2_btn1.png) center center no-repeat;
+    color: #fff;
+    text-align: center;
+    margin-top: 66px;
+    margin-left: 30px;
+}
+
+.muban_btn2 a:hover {
+    background: url(https://www.wangyi-youdao.com/skin/images/muban2_btn2.png) center center no-repeat;
+}
+
+.muban2_bottom {
+    margin-top: 57px;
+    background: #fff;
+    padding: 20px 100px;
+}
+
+.muban2_bottom .title {
+    font-size: 24px;
+    color: #333;
+    line-height: 60px;
+    border-bottom: 2px solid #FAC035;
+    margin-bottom: 30px;
+}
+
+.muban2_bottom .article {
+    font-size: 14px;
+    color: #333;
+    text-indent: 30px;
+    line-height: 30px;
+}
+
+.muban2_bottom img {
+    max-width: 100%;
+    display: block;
+    width: 530px;
+    height: 340px;
+    margin: 30px auto;
+}
+
+.muban2_bottom .buzou {
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.mbcopy-40 {
+    margin-top: 40px;
+}
+.fl{float: left;}
+.fr{float: right;}
+.mwidth{width: 1000px;margin-left: auto;margin-right: auto;}
+/*header*/
+.header {overflow: hidden;width: 100%;position:relative;vertical-align: middle;display: inline-block;padding: 15px 0;}
+.header form .form-group {display: inline-block;overflow: hidden;position: relative;}
+.header form .form-group .btn-default {border: none;width: 68px;height: 39px;border-radius: 0px 4px 4px 0px;color: #fff;cursor: pointer;}
+.header form .hotSearch{width: 459px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+
+
+
+.recbox .corner li{float: left;width: 90px;overflow: hidden;margin-right: 20px;margin-top: 29px;margin-bottom: 6px;}
+.recboxHot .corner li{margin-right: 28px;}
+
+
+
+
+body {
+    background-color: #fff;
+    overflow-y: scroll
+  }
+
+  .pull-left {
+    float: left !important
+  }
+
+  .pull-right {
+    float: right !important
+  }
+
+  .clearfix:after,
+  .clearfix:before {
+    clear: both;
+    content: "";
+    display: block;
+    height : 0;
+    clear  : both;
+  }
+
+  .hide {
+    display: none
+  }
+
+  .text-overflow-1 {
+    word-break: break-all;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden
+  }
+
+  .width-1038 {
+    width: 1038px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  .border-eee {
+    border: 1px solid #eee !important
+  }
+
+
+  * {
+    margin: 0;
+    padding: 0
+  }
+
+  html {
+    /* font-size: 12px; */
+    font: 12px/1.5 Arial;
+    font-family: "Microsoft YaHei"
+  }
+
+  body,
+  dd,
+  dl,
+  form,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  input,
+  ol,
+  p,
+  select,
+  textarea,
+  ul {
+    margin: 0;
+    padding: 0
+  }
+
+  ol,
+  ul {
+    list-style: none
+  }
+
+  img {
+    border: none
+  }
+
+  input,
+  select,
+  textarea {
+    outline: 0;
+    border: none;
+    background-color: transparent
+  }
+
+  textarea {
+    resize: none
+  }
+
+  a {
+    cursor: pointer;
+    text-decoration: none
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 1em
+  }
+
+  em,
+  i {
+    font-style: normal
+  }
+
+  .column {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+
+
+
+
+  .block .block-contents .block-content,
+  .block .block-contents .slide-left-to-right .slide-contents .slide-content,
+  .slide-left-to-right .slide-contents .block .block-contents .slide-content {
+    float: left
+  }
+
+  .block .block-content,
+  .block .slide-left-to-right .slide-contents .slide-content,
+  .slide-left-to-right .slide-contents .block .slide-content {
+    float: none
+  }
+
+
+
+
+  /*头部*/
+  .column-nav {
+    background-color: #80c3ec;
+    height: 40px;
+    line-height: 40px
+  }
+
+  .column-nav .block-content,
+  .column-nav .slide-left-to-right .slide-contents .slide-content,
+  .slide-left-to-right .slide-contents .column-nav .slide-content {
+    height: 40px;
+    overflow: hidden
+  }
+
+  .column-nav .block-content {
+    display: flex;
+    justify-content: space-between
+  }
+
+  .column-nav .block-content a,
+  .column-nav .slide-left-to-right .slide-contents .slide-content a,
+  .slide-left-to-right .slide-contents .column-nav .slide-content a {
+    float: left;
+    width: 12.499%;
+    text-align: center;
+    color: #fff;
+    font-size: 16px
+  }
+
+  .column-nav .block-content a.active,
+  .column-nav .slide-left-to-right .slide-contents .slide-content a.active,
+  .slide-left-to-right .slide-contents .column-nav .slide-content a.active {
+    background-color: #FCB219
+  }
+
+  /*banner*/
+  
+
+  .img_src {
+    position: absolute;
+    width: 480px;
+    top: 150px;
+  }
+  .muban_top_banner{
+    position: relative;
+  }
+  .muban_top_banner .introImg{
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    top: 150px;
+  }
+  .muban_top_banner .thumbnail{
+    width: 540px;
+    height: 320px;
+    border-radius: 10px;
+    /* position: absolute;
+    left: 0;
+    top: 120px;
+    border-radius: 10px; */
+  }
+
+  .muban_top2 .header {
+    height: 60px;
+    line-height: 60px;
+  }
+
+
+
+  .muban_top_banner .title {
+    font-size: 38px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    height: 100px;
+    margin-left: 20px;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .muban_a{
+    position: absolute;
+    top: 120px;
+    right: 0;
+    height: 375px;
+  }
+   .introduction {
+    margin: 0;    
+    width: 446px;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .center{
+    margin-left: auto;
+    margin-right: auto;
+  }
+   .introduction h1{
+    margin: 0 0 30px 0;
+    /* display: inline-block; */
+    font-size: 36px;
+  }
+   .introduction h1 img{
+    vertical-align: middle;
+    display: inline-block;
+    height: 48px;
+    border-radius: 10px;
+  }
+   .introduction .text{
+    margin-bottom: 20px;
+    font-size: 34px;
+  }
+
+   .introduction .btn{
+    border-radius: 50px;
+    display: inline-block;
+    width: 292px;
+    height: 56px;
+    background-image: url(https://www.wangyi-youdao.com/skin/images/btns.png);
+    background-position: -6px -5px;
+  }
+   .introduction .d-p3{
+    color: #999;
+    font-size: 12px;
+    margin-top: 12px;
+  }
+
+
+  .yd_width {
+    width: 270px;
+    position: absolute;
+    top: 150px;
+    right: 10px;
+  }
+
+  .yd_width .box dl {
+    padding: 2px 5px !important;
+  }
+
+  .yd_width .box h3 {
+    border-bottom: none !important;
+    line-height: 35px !important;
+  }
+
+  .yd_width .box dt {
+    padding-right: 0px !important;
+  }
+
+  .yd_width .box dd p {
+    line-height: 30px;
+    width: 70% !important;
+  }
+
+
+  .downdecail .menu {
+    display: block;
+    /* float: left; */
+    width: 195px;
+    margin-right: 5px;
+    font-size: 16px;
+    background-color: #fff;
+    overflow: hidden;
+    
+  }
+  .downdecail .menu a{
+    color: #333;
+  }
+  .downdecail .menu .menu-list{
+    width: 100%;
+  }
+  .downdecail .menu dd{
+    float: left;
+    width: 85px;
+    margin: 0 5px;
+    text-align: center;
+    margin-bottom: 11px;
+    color: #efefef;
+    background-color: #f1f4f7;
+    font-size: 16px;
+    line-height: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+  .downdecail .menu dd:hover,
+  .downdecail .menu dd.active{
+    background-color: #3fa0ee;
+    color: #fff;
+  }
+  .downdecail .menu dd:hover>a,
+  .downdecail .menu dd.active>a
+  {
+    color: #fff;
+  }
+  .downdecail .left {
+    border: none;
+    padding: 0;
+    width: 770px;
+    float: left;
+    background-color: #fff;
+  }
+
+  .sortsList .right {
+    width: 255px;
+    float: right;
+  }
+
+  #mustInstall .other-down{
+    float: left;
+    width: 20%;
+    margin: 12px 0;
+    text-align: center;
+    cursor: pointer;
+  }
+  #mustInstall .other-down .img{
+    width: 68px;
+    height: 68px;
+  }
+  #mustInstall .other-down p{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+
+  .softALL .comlist {
+    float: left;
+    width: 338px;
+    margin-left: 18px;
+  }
+
+  .softALL .softwaretwo {
+    margin-bottom: 20px;
+  }
+
+  .softALL .comlist h3 {
+    border-bottom: 1px dashed #ddd;
+    line-height: 36px;
+    height: 36px;
+    padding-left: 16px;
+    font-size: 16px;
+    color: #999;
+  }
+
+  .softALL .comlist ul {
+    padding: 5px 0;
+    overflow: hidden;
+  }
+
+  .softALL .comlist ul li {
+    width: 145px;
+    float: left;
+    padding-left: 10px;
+    margin: 10px 0;
+    height: 35px;
+  }
+
+  .softALL .comlist ul li a {
+    text-decoration: none;
+  }
+
+  .softALL .comlist ul li img {
+    float: left;
+    margin-right: 10px;
+    width: 35px;
+  }
+
+  .softALL .comlist ul p {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 12px;
+    color: #999;
+  }
+
+  .softALL .comlist ul p span {
+    display: block;
+    margin-bottom: 2px;
+    font-size: 12px;
+    color: #999;
+  }
+
+  .synopsis .content {
+    padding: 15px;
+    color: #000;
+    font-size: 14px;
+  }
+  .synopsis a{
+      display: inline-block;
+      margin-right:32px;
+  }
+
+
+  /*右侧推荐*/
+  .em1 {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-size: 100%;
+    background: url(https://www.wangyi-youdao.com/skin/images/360_maricon.png) no-repeat;
+  }
+
+  .em2 {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url(https://www.wangyi-youdao.com/skin/images/360_em2.png)center center no-repeat;
+    background-size: 100%;
+    position: absolute;
+    left: 95px;
+    top: 8px;
+  }
+
+  .soft_rightB a {
+    color: #575757;
+  }
+
+  .soft_rightB .box {
+    padding-bottom: 15px;
+    background: #fff;
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+  }
+
+  .soft_rightB .box h3{
+    font-size: 18px;
+    color: #87CEFF;
+    border-bottom: 1px solid #ddd;
+    padding-left: 20px;
+    line-height: 50px;
+    margin-bottom: 8px;
+    font-weight: normal;
+    position: relative;
+  }
+
+  .soft_rightB .box dl {
+    overflow: hidden;
+    padding: 12px 5px;
+  }
+
+  .soft_rightB .box dt {
+    float: left;
+    width: 45px;
+    padding-right: 10px;
+  }
+
+  .soft_rightB .box dd p {
+    float: left;
+    width: 130px;
+    font-size: 12px;
+    color: #999;
+  }
+
+  .soft_rightB .box dd span,
+  .soft_rightB .box .softph span {
+    float: right;
+    width: 56px;
+    height: 23px;
+    border: 1px solid #47b751;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #47b751;
+    line-height: 23px;
+    margin-top: 10px;
+  }
+
+  .soft_rightB .box dd p .verstit {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .soft_rightB .box dd span a,
+  .soft_rightB .box .softph span a {
+    display: block;
+    color: #47b751;
+    text-decoration: none;
+  }
+
+  /*底部下載*/
+  .muban_bottom_btn {
+    margin: 50px auto;
+  }
+
+  .muban_bottom_btn a {
+    width: 300px;
+    height: 76px;
+    line-height: 76px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    margin-left: 42px;
+    margin-bottom: 14px;
+  }
+
+  .muban_bottom_btn .a1 {
+    background: #3f3ee2;
+  }
+
+  .muban_bottom_btn .a2 {
+    background: #149bf1;
+  }
+
+  .muban_bottom_btn .a3 {
+    background: #ff9018;
+  }
+  #jpRecSoft{
+    font-size: 12px;
+    color: #999;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  #jpRecSoft .img{
+    width: 68px;
+    height: 68px;
+  }
+  #jpRecSoft li{
+    float: left;
+    width: 12.5%;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  #jpRecSoft .btn{
+    float: left;
+    width: 56px;
+    height: 23px;
+    border: 1px solid #47b751;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #47b751;
+    line-height: 23px;
+    margin-top: 10px;
+  }
+  #jpRecSoft .btn>p{
+    display: block;
+    color: #47b751;
+    text-decoration: none;
+  }
+
+  /*底部*/
+  .copy {
+    text-align: center;
+    font-size: 13px;
+    color: #999;
+    margin-bottom: 0;
+  }
+  .header form .form-group .form-control{
+    width: 240px;
+    height: 32px;
+    box-sizing: border-box;
+    line-height: 32px;
+    background-color: #fff;
+    padding: 0px 12px;
+    float: left;
+  }
+  .header form .form-group{
+    width: auto;
+  }
+  .h500px{
+    height: 500px;
+  }
+  .h410px{
+      height: 410px;
+  }
+
+  .pointer{
+    cursor: pointer;
+  }
+  .wd450{
+      width: 450px;
+  }
+  .mr133{
+      margin-right: 133px;
+  }
+  .vertical-middle{
+    vertical-align: middle;
+    display: inline-block;
+  }
+  .line{
+    display: inline-block;
+    width: 70px;
+    height: 5px;
+    background: #00c82b;
+    margin: 24px 0;
+  }
+  .fzc36{
+    line-height: 32px;
+    font-size: 32px;
+    color: #333333;
+  }
+  .fzc22{
+    margin-top: 15px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #333333;
+  }
+  .intro{
+      padding-bottom: 100px;
+      /* margin-bottom: 80px; */
+      /* border-bottom: 1px solid #ccc; */
+  }
+  .intro .introImg{
+    width: 450px;
+    height: 250px;
+  }
+  .inline-block{
+      display: inline-block;
+  }
+  .center.introduction {
+    color: #3d3d3d;
+  }
+  .center.introduction .btn{
+    background-color:  #38c800;
+  }
+  .center.introduction .btn:hover{
+    background-color: #3dd404;
+  }
+  .center.introduction .text{
+    font-size: 18px;      
+  }
+  .center.introduction h1{
+    font-weight: normal;
+  }
+  .rank>li{
+      color: #333;
+      font-size: 14px;
+      font-weight: normal;
+      cursor: pointer;
+      padding-left: 10px;
+  }
+  .rank h6>em{
+      font: italic 16px/31px Arial;
+      width: 20px;
+      color: #999;
+  }
+  .rank h6>em.lab-1{
+      color: #f33;
+  }
+  .rank h6>em.lab-2,
+  .rank h6>em.lab-3{
+    color: #f80
+}
+  .rank h6>span{
+      max-width: 220px;
+      font-weight: normal;
+  }
+  .rank .info{
+    position: relative;
+    left: 20px;
+    display: none;
+  }
+  .rank .active .info{
+      display: block;
+  }
+  .rank .info>img{
+      width: 50px;
+      height: 50px;
+  }
+  .rank .info-s{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+  }
+  .rank .stars{
+    width: 79px;
+    height: 13px;
+    background: url(https://www.wangyi-youdao.com/skin/images/bg.png) no-repeat -96px -30px;
+    line-height: 0;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .rank .btn{
+    width: 60px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #288bde;
+    border: 1px solid #fff;
+    color: #fff;
+    position: absolute;
+    right: 25px;
+    top: 15px;
+  }
+
+
+  
+  .header .title,
+  .bottom .title{    
+    font-size: 24px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #333333;
+    max-width: 2400px;
+    margin-right:20px;
+    overflow: hidden;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .header .form{
+    /* text-align: right; */
+    float: right;
+    margin-top: 10px;
+  }
+  .menu{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .menu a{
+    color: #288bde;
+    margin-right: 20px;
+  }
+  .top-menu{
+    line-height: 1;
+    font-size: 24px;
+    height: 80px;
+  }
+  .top-menu .ico,
+  .bottom .ico{
+    height: 36px;
+    vertical-align: middle;
+    border-radius: 5px;
+    margin-top: 22px;
+  }
+  .width70{
+    width: 70%;
+  }
+  .width30{
+    width: 30%;
+  }
+  .bottom{
+    /* padding: 10px 0; */
+    background-color: #fff;
+    height: 81px;
+    line-height: 81px;
+  }
+  .bottom .text{
+    display: inline-block;
+    line-height: 30px;
+    height: 30px;
+    overflow: hidden;
+    vertical-align: middle;
+    font-size: 30px;
+    width: 500px;
+    text-align: center;
+    font-weight: 800;
+    color: #333333;
+  }
+  .bottom .btn{
+    width: 181px;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    vertical-align: middle;
+    background-color: #FB4A3E;
+    color: #fff;
+    border-radius: 30px;
+    cursor: pointer;
+    float: right;
+    margin-top: 20px;
+  }
+  .fixed-footer{
+    margin-bottom: 81px;
+  }
+  .fixed-bottom{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+  }
+  .fixed-bottom.width-1038{
+    width: 100%;
+  }
+  .fixed-bottom .bottom{
+    width: 1038px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+  .rec{
+    padding-top: 40px;
+  }
+  .rec h3{
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  #must{
+    height: 238px;
+    overflow: hidden;
+  }
+  #maybe li{
+    font-size: 12px;
+    float: left;
+    width: 80px;
+    margin-right: 40px;
+    text-align: center;
+    color: #666;
+    cursor: pointer;
+    margin-bottom: 36px;
+  }
+  #maybe li .title{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    height: 24px;
+    line-height: 24px;
+  }
+  #maybe li:hover .title{
+    display: none;    
+  }
+  #maybe li:hover .btn{
+    display: block;
+  }
+  #maybe li .thumb{
+    width: 68px;
+    height: 68px;
+    margin-top: 5px;
+  }
+  #maybe li .btn{
+    box-sizing: border-box;
+    height: 24px;
+    line-height: 24px;
+    width: 60px;
+    border: 1px solid;
+    text-align: center;
+    margin: auto;
+    display: none;
+  }
+  #must li{
+    float: left;
+    width: 140px;
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-bottom: 17px;
+  }
+  #must li .thumb{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+  }
+  #must li .title{
+    display: inline-block;
+    line-height: 25px;
+    font-size: 14px;
+    height: 25px;
+    width: 115px;
+    color: #333333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+
+
+  
